@@ -1,0 +1,1 @@
+select * from LEARNING_DB.PUBLIC.INDUSTRY_STATISTICS_HISTORY where RME_SIZE = 'Forestry and Fishing"';
