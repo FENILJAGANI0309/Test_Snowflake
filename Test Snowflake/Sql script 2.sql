@@ -1,0 +1,1 @@
+select * from learning_db.public.industry_statistics;
